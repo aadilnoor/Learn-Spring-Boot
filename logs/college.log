@@ -1,0 +1,95 @@
+2024-10-19 10:18:52,277 :  : WARN   : HikariPool.java:797 : HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=13h24m5s125ms471µs100ns).
+2024-10-19 10:19:46,464 :  : INFO   : DirectJDKLog.java:173 : Stopping ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:19:46,829 :  : INFO   : HikariDataSource.java:349 : HikariPool-5 - Shutdown initiated...
+2024-10-19 10:19:46,838 :  : INFO   : HikariDataSource.java:351 : HikariPool-5 - Shutdown completed.
+2024-10-19 10:19:47,051 :  : INFO   : StartupInfoLogger.java:50 : Starting CollegeDataApi1Application using Java 17.0.11 with PID 7612 (F:\Spring Boot Projects\College-Data_Api\target\classes started by Aadil Noor in F:\Spring Boot Projects\College-Data_Api)
+2024-10-19 10:19:47,052 :  : DEBUG  : StartupInfoLogger.java:51 : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-19 10:19:47,053 :  : INFO   : SpringApplication.java:654 : No active profile set, falling back to 1 default profile: "default"
+2024-10-19 10:19:47,619 :  : INFO   : DirectJDKLog.java:173 : Initializing ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:19:47,619 :  : INFO   : DirectJDKLog.java:173 : Starting service [Tomcat]
+2024-10-19 10:19:47,620 :  : INFO   : DirectJDKLog.java:173 : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19 10:19:47,657 :  : INFO   : DirectJDKLog.java:173 : Initializing Spring embedded WebApplicationContext
+2024-10-19 10:19:47,728 :  : INFO   : LogHelper.java:31 : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19 10:19:47,733 :  : INFO   : RegionFactoryInitiator.java:50 : HHH000026: Second-level cache disabled
+2024-10-19 10:19:47,748 :  : INFO   : HikariDataSource.java:109 : HikariPool-6 - Starting...
+2024-10-19 10:19:47,767 :  : INFO   : HikariPool.java:554 : HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5522d4c
+2024-10-19 10:19:47,767 :  : INFO   : HikariDataSource.java:122 : HikariPool-6 - Start completed.
+2024-10-19 10:19:47,768 :  : WARN   : DialectFactoryImpl.java:153 : HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-10-19 10:19:47,769 :  : WARN   : DialectFactoryImpl.java:101 : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-10-19 10:19:47,826 :  : INFO   : JtaPlatformInitiator.java:59 : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19 10:19:48,188 :  : INFO   : DirectJDKLog.java:173 : Starting ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:19:48,219 :  : INFO   : StartupInfoLogger.java:56 : Started CollegeDataApi1Application in 1.279 seconds (process running for 63594.087)
+2024-10-19 10:19:48,224 :  : INFO   : CollegeDataApi1Application.java:14 : Application is Started...
+2024-10-19 10:20:32,022 :  : INFO   : DirectJDKLog.java:173 : Stopping ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:20:32,276 :  : INFO   : HikariDataSource.java:349 : HikariPool-6 - Shutdown initiated...
+2024-10-19 10:20:32,284 :  : INFO   : HikariDataSource.java:351 : HikariPool-6 - Shutdown completed.
+2024-10-19 10:20:32,415 :  : INFO   : StartupInfoLogger.java:50 : Starting CollegeDataApi1Application using Java 17.0.11 with PID 7612 (F:\Spring Boot Projects\College-Data_Api\target\classes started by Aadil Noor in F:\Spring Boot Projects\College-Data_Api)
+2024-10-19 10:20:32,416 :  : DEBUG  : StartupInfoLogger.java:51 : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-19 10:20:32,416 :  : INFO   : SpringApplication.java:654 : No active profile set, falling back to 1 default profile: "default"
+2024-10-19 10:20:32,926 :  : INFO   : DirectJDKLog.java:173 : Initializing ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:20:32,926 :  : INFO   : DirectJDKLog.java:173 : Starting service [Tomcat]
+2024-10-19 10:20:32,927 :  : INFO   : DirectJDKLog.java:173 : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19 10:20:32,968 :  : INFO   : DirectJDKLog.java:173 : Initializing Spring embedded WebApplicationContext
+2024-10-19 10:20:33,035 :  : INFO   : LogHelper.java:31 : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19 10:20:33,040 :  : INFO   : RegionFactoryInitiator.java:50 : HHH000026: Second-level cache disabled
+2024-10-19 10:20:33,056 :  : INFO   : HikariDataSource.java:109 : HikariPool-7 - Starting...
+2024-10-19 10:20:33,078 :  : INFO   : HikariPool.java:554 : HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5bebd10f
+2024-10-19 10:20:33,078 :  : INFO   : HikariDataSource.java:122 : HikariPool-7 - Start completed.
+2024-10-19 10:20:33,079 :  : WARN   : DialectFactoryImpl.java:153 : HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-10-19 10:20:33,080 :  : WARN   : DialectFactoryImpl.java:101 : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-10-19 10:20:33,139 :  : INFO   : JtaPlatformInitiator.java:59 : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19 10:20:33,469 :  : INFO   : DirectJDKLog.java:173 : Starting ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:20:33,502 :  : INFO   : StartupInfoLogger.java:56 : Started CollegeDataApi1Application in 1.138 seconds (process running for 63639.371)
+2024-10-19 10:20:33,506 :  : INFO   : CollegeDataApi1Application.java:14 : Application is Started...
+2024-10-19 10:20:44,059 :  : INFO   : DirectJDKLog.java:173 : Stopping ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:20:44,310 :  : INFO   : HikariDataSource.java:349 : HikariPool-7 - Shutdown initiated...
+2024-10-19 10:20:44,314 :  : INFO   : HikariDataSource.java:351 : HikariPool-7 - Shutdown completed.
+2024-10-19 10:20:44,524 :  : INFO   : StartupInfoLogger.java:50 : Starting CollegeDataApi1Application using Java 17.0.11 with PID 7612 (F:\Spring Boot Projects\College-Data_Api\target\classes started by Aadil Noor in F:\Spring Boot Projects\College-Data_Api)
+2024-10-19 10:20:44,525 :  : DEBUG  : StartupInfoLogger.java:51 : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-19 10:20:44,525 :  : INFO   : SpringApplication.java:654 : No active profile set, falling back to 1 default profile: "default"
+2024-10-19 10:20:44,947 :  : INFO   : DirectJDKLog.java:173 : Initializing ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:20:44,947 :  : INFO   : DirectJDKLog.java:173 : Starting service [Tomcat]
+2024-10-19 10:20:44,948 :  : INFO   : DirectJDKLog.java:173 : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19 10:20:44,977 :  : INFO   : DirectJDKLog.java:173 : Initializing Spring embedded WebApplicationContext
+2024-10-19 10:20:45,033 :  : INFO   : LogHelper.java:31 : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19 10:20:45,038 :  : INFO   : RegionFactoryInitiator.java:50 : HHH000026: Second-level cache disabled
+2024-10-19 10:20:45,049 :  : INFO   : HikariDataSource.java:109 : HikariPool-8 - Starting...
+2024-10-19 10:20:45,064 :  : INFO   : HikariPool.java:554 : HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29025384
+2024-10-19 10:20:45,064 :  : INFO   : HikariDataSource.java:122 : HikariPool-8 - Start completed.
+2024-10-19 10:20:45,065 :  : WARN   : DialectFactoryImpl.java:153 : HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-10-19 10:20:45,065 :  : WARN   : DialectFactoryImpl.java:101 : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-10-19 10:20:45,106 :  : INFO   : JtaPlatformInitiator.java:59 : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19 10:20:45,386 :  : INFO   : DirectJDKLog.java:173 : Starting ProtocolHandler ["http-nio-9011"]
+2024-10-19 10:20:45,421 :  : INFO   : StartupInfoLogger.java:56 : Started CollegeDataApi1Application in 1.031 seconds (process running for 63651.289)
+2024-10-19 10:20:45,426 :  : INFO   : CollegeDataApi1Application.java:14 : Application is Started...
+2024-10-19 10:21:17,482 :  : INFO   : DirectJDKLog.java:173 : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-19 10:21:18,230 :  : INFO   : AbstractOpenApiResource.java:387 : Init duration for springdoc-openapi is: 121 ms
+2024-10-19 10:21:26,336 :  : INFO   : CollegeService.java:61 : Fetching All College Details
+2024-10-19 11:22:57,692 :  : WARN   : HikariPool.java:797 : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=29m12s17ms867µs).
+2024-10-19 11:44:15,716 :  : INFO   : DirectJDKLog.java:173 : Stopping ProtocolHandler ["http-nio-9011"]
+2024-10-19 11:44:16,057 :  : INFO   : HikariDataSource.java:349 : HikariPool-8 - Shutdown initiated...
+2024-10-19 11:44:16,070 :  : INFO   : HikariDataSource.java:351 : HikariPool-8 - Shutdown completed.
+2024-10-19 11:44:16,235 :  : INFO   : StartupInfoLogger.java:50 : Starting CollegeDataApi1Application using Java 17.0.11 with PID 7612 (F:\Spring Boot Projects\College-Data_Api\target\classes started by Aadil Noor in F:\Spring Boot Projects\College-Data_Api)
+2024-10-19 11:44:16,236 :  : DEBUG  : StartupInfoLogger.java:51 : Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-10-19 11:44:16,236 :  : INFO   : SpringApplication.java:654 : No active profile set, falling back to 1 default profile: "default"
+2024-10-19 11:44:16,879 :  : INFO   : DirectJDKLog.java:173 : Initializing ProtocolHandler ["http-nio-9011"]
+2024-10-19 11:44:16,880 :  : INFO   : DirectJDKLog.java:173 : Starting service [Tomcat]
+2024-10-19 11:44:16,881 :  : INFO   : DirectJDKLog.java:173 : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19 11:44:16,933 :  : INFO   : DirectJDKLog.java:173 : Initializing Spring embedded WebApplicationContext
+2024-10-19 11:44:17,031 :  : INFO   : LogHelper.java:31 : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19 11:44:17,039 :  : INFO   : RegionFactoryInitiator.java:50 : HHH000026: Second-level cache disabled
+2024-10-19 11:44:17,062 :  : INFO   : HikariDataSource.java:109 : HikariPool-9 - Starting...
+2024-10-19 11:44:17,097 :  : INFO   : HikariPool.java:554 : HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72b79ea
+2024-10-19 11:44:17,097 :  : INFO   : HikariDataSource.java:122 : HikariPool-9 - Start completed.
+2024-10-19 11:44:17,099 :  : WARN   : DialectFactoryImpl.java:153 : HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-10-19 11:44:17,099 :  : WARN   : DialectFactoryImpl.java:101 : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-10-19 11:44:17,187 :  : INFO   : JtaPlatformInitiator.java:59 : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19 11:44:17,729 :  : INFO   : DirectJDKLog.java:173 : Starting ProtocolHandler ["http-nio-9011"]
+2024-10-19 11:44:17,814 :  : INFO   : StartupInfoLogger.java:56 : Started CollegeDataApi1Application in 1.643 seconds (process running for 68663.69)
+2024-10-19 11:44:17,826 :  : INFO   : CollegeDataApi1Application.java:14 : Application is Started...
+2024-10-19 11:44:28,933 :  : INFO   : DirectJDKLog.java:173 : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-19 11:44:29,928 :  : INFO   : AbstractOpenApiResource.java:387 : Init duration for springdoc-openapi is: 153 ms
+2024-10-19 11:44:40,125 :  : INFO   : CollegeService.java:53 : Fetching College Detail with id :4
+2024-10-19 11:54:12,279 :  : INFO   : DirectJDKLog.java:173 : Stopping ProtocolHandler ["http-nio-9011"]
+2024-10-19 11:54:12,679 :  : INFO   : HikariDataSource.java:349 : HikariPool-9 - Shutdown initiated...
+2024-10-19 11:54:12,692 :  : INFO   : HikariDataSource.java:351 : HikariPool-9 - Shutdown completed.
